@@ -3,3 +3,5 @@ emoji
 type option
 colour
 varient
+dark mode
+vedios
