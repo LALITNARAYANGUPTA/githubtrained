@@ -5,3 +5,6 @@ colour
 varient
 dark mode
 vedios
+payment option
+send money
+recive money
